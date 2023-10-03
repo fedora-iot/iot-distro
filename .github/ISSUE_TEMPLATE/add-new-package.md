@@ -1,5 +1,5 @@
 ---
-name: add-new-package
+name: Add a new package
 about: Request a new package to be added to Fedora IoT
 title: ''
 labels: ''
